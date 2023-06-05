@@ -1,0 +1,5 @@
+login='postgres'
+password='lenochka77'
+host='localhost'
+port='5432'
+db_name='bookstores'
